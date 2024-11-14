@@ -2,11 +2,11 @@
 
 //crew roster
 String pilot = "Prof Kit";
-String copilot = "";
+String copilot = "hewao";
 
 //spacecraft controls
-boolean viewscreen = false; //powers up main viewscreen
-boolean displays = false; //powers up left and right cockpit displays
+boolean viewscreen = true; //powers up main viewscreen
+boolean displays = true; //powers up left and right cockpit displays
 boolean attitudeControl = false;
 boolean artificialGravity = false;
 boolean sensors = false; //turns on sensors
